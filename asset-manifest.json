@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/https//https://kongengines.github.io/instinct2/static/css/main.e53863da.css",
+    "main.js": "/https//https://kongengines.github.io/instinct2/static/js/main.ac97af47.js",
+    "static/media/logo.svg": "/https//https://kongengines.github.io/instinct2/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/https//https://kongengines.github.io/instinct2/index.html",
+    "main.e53863da.css.map": "/https//https://kongengines.github.io/instinct2/static/css/main.e53863da.css.map",
+    "main.ac97af47.js.map": "/https//https://kongengines.github.io/instinct2/static/js/main.ac97af47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e53863da.css",
+    "static/js/main.ac97af47.js"
+  ]
+}
